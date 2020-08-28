@@ -4,7 +4,7 @@
 
 ##User input is stored and parsed from local storage so data is not lost upon refreshing the app page.
 
-#User Story
+#User Story:
 
 ##AS A busy professional, I WANT to keep track of my business hour commitments SO I can better manage my work-life balance.
 
